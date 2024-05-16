@@ -2,14 +2,12 @@ import { getRandomValues } from 'crypto';
 import express, {Express,Request,Response} from 'express';
 import { Mongoose } from 'mongoose';
 import { generateRandom, generateRandomDecimal, getRandomDate, getRandomStatus } from './utils/helperFunctions';
-const dotenv = require("dotenv");
 const appliancesModel = require("./models/appliances")
 
 const mongoose: Mongoose = require("mongoose");
 
-dotenv.config();
 const app: Express = express();
-const port = process.env.PORT;
+const port = 8000;
 
 mongoose.connect("mongodb+srv://qubetask:QubeTask@qube.8vlrcd6.mongodb.net/Qube")
 
