@@ -1,0 +1,100 @@
+{
+    "appliances": 
+        [
+            {
+                "location": {
+                    "city": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India"
+                },
+                "_id": "6644f3535ea3b5ef5900af2b",
+                "serialNo": "AC6UVL",
+                "theatreName": "HBBK theatre",
+                "bandwidth": "410 kbps",
+                "avgBandwidth": "564 kbps",
+                "deviceStatus": "online",
+                "downloadStatus": "failed",
+                "osVersion": "9.64",
+                "ispPaymentResponsibility": "string",
+                "planStartDate": "string",
+                "billingCycle": "string",
+                "storage": "string"
+            },
+            {
+                "location": {
+                    "city": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India"
+                },
+                "_id": "6644f3545ea3b5ef5900af2d",
+                "serialNo": "PN0E7L",
+                "theatreName": "IUDV theatre",
+                "bandwidth": "228 kbps",
+                "avgBandwidth": "167 kbps",
+                "deviceStatus": "online",
+                "downloadStatus": "failed",
+                "osVersion": "8.24",
+                "ispPaymentResponsibility": "string",
+                "planStartDate": "string",
+                "billingCycle": "string",
+                "storage": "string"
+            },
+            {
+                "location": {
+                    "city": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India"
+                },
+                "_id": "6644f3545ea3b5ef5900af2f",
+                "serialNo": "QX8DWL",
+                "theatreName": "LXNI theatre",
+                "bandwidth": "941 kbps",
+                "avgBandwidth": "783 kbps",
+                "deviceStatus": "offline",
+                "downloadStatus": "failed",
+                "osVersion": "8.09",
+                "ispPaymentResponsibility": "string",
+                "planStartDate": "string",
+                "billingCycle": "string",
+                "storage": "string"
+            },
+            {
+                "location": {
+                    "city": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India"
+                },
+                "_id": "6644f3545ea3b5ef5900af31",
+                "serialNo": "XZKCTQ",
+                "theatreName": "PXHI theatre",
+                "bandwidth": "121 kbps",
+                "avgBandwidth": "695 kbps",
+                "deviceStatus": "offline",
+                "downloadStatus": "downloading",
+                "osVersion": "4.53",
+                "ispPaymentResponsibility": "string",
+                "planStartDate": "string",
+                "billingCycle": "string",
+                "storage": "string"
+            },
+            {
+                "location": {
+                    "city": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India"
+                },
+                "_id": "6644f3545ea3b5ef5900af33",
+                "serialNo": "1FR51D",
+                "theatreName": "YAOZ theatre",
+                "bandwidth": "683 kbps",
+                "avgBandwidth": "856 kbps",
+                "deviceStatus": "online",
+                "downloadStatus": "succeeded",
+                "osVersion": "4.84",
+                "ispPaymentResponsibility": "string",
+                "planStartDate": "string",
+                "billingCycle": "string",
+                "storage": "string"
+            }
+        ]
+}
